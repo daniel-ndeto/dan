@@ -1,17 +1,17 @@
 <h1 align="center">
   <br>
-  <a href="http://gregsithole.com">
-  <img src="./src/assets/light-logo.svg" alt="GregSithole" width="200"></a>
+  <a href="https://dn-nu.vercel.app/">
+  <img src="./src/assets/light-logo.svg" alt="Daniel Ndeto" width="200"></a>
   <br>
-  Greg Sithole's Personal Website
+  Daniel Ndeto"s Personal Website
   <br>
 </h1>
 
-<h4 align="center">A simple personal website about <a href="http://gregsithole.com" target="_blank">Greg Sithole</a>.</h4>
+<h4 align="center">A simple personal website about <a href="https://dn-nu.vercel.app/" target="_blank">Daniel Ndeto</a>.</h4>
 
 <br>
 
-![screenshot](https://github.com/GregSithole/gregsithole-react-portfolio/raw/master/src/assets/screenshot.png)
+![screenshot](https://github.com/daniel-ndeto/dan-react-portfolio/src/assets/screenshot.png)
 
 ## How To Use
 
@@ -19,10 +19,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/GregSithole/gregsithole-react-portfolio
+$ git clone https://github.com/daniel-ndeto/dan.git
 
 # Go into the repository
-$ cd gregsithole-react-portfolio
+$ cd dan-react-portfolio
 
 # Install dependencies
 $ yarn install
