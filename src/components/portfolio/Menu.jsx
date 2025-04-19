@@ -9,7 +9,7 @@ const Menu = [
 		image: Work1,
 		title: "React Native Jobs App",
 		category: ["Frontend", "React"],
-		repositoryUrl: "https://github.com/GregSithole/react-native-jobs"
+		repositoryUrl: "https://github.com/daniel-ndeto",
 	},
 	{
 		id: 2,
@@ -17,7 +17,7 @@ const Menu = [
 		title: "Cryptoverse",
 		category: ["Frontend", "React"],
 		url: "https://cryptoverse.gregsithole.com",
-		repositoryUrl: "https://github.com/GregSithole/crypto-app"
+		repositoryUrl: "https://github.com/daniel-ndeto",
 	},
 	{
 		id: 3,
@@ -25,7 +25,7 @@ const Menu = [
 		title: "Travel Advisor",
 		category: ["Frontend"],
 		url: "https://travel.gregsithole.com",
-		repositoryUrl: "https://github.com/GregSithole/travel-advisor"
+		repositoryUrl: "https://github.com/daniel-ndeto",
 	},
 	{
 		id: 4,
@@ -33,7 +33,7 @@ const Menu = [
 		title: "Wallhaven CLI",
 		category: ["Backend"],
 		url: "https://www.npmjs.com/package/wallhaven-cli",
-		repositoryUrl: "https://github.com/GregSithole/wallhaven-cli"
+		repositoryUrl: "https://github.com/daniel-ndeto",
 	}
 ];
 
