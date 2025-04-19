@@ -11,7 +11,7 @@
 
 <br>
 
-![screenshot](https://github.com/daniel-ndeto/dan-react-portfolio/src/assets/screenshot.png)
+![screenshot](dan-react-portfolio/src/assets/screenshot.png)
 
 ## How To Use
 
